@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(98): warning C4101: 'modulQ': unreferenced local variable
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(98): warning C4101: 'modulP': unreferenced local variable
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(98): warning C4101: 'test': unreferenced local variable
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(191): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\александрсевер\documents\visual studio 2015\projects\consoleapplication54\consoleapplication54\source.cpp(319): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication54.vcxproj -> C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\ConsoleApplication54\x64\Debug\ConsoleApplication54.exe
+  ConsoleApplication54.vcxproj -> C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\ConsoleApplication54\x64\Debug\ConsoleApplication54.pdb (Full PDB)
